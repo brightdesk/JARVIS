@@ -1,3 +1,19 @@
-h1{
+h1 {
   color: #53f442;
+}
+img.logo {
+  padding-top: 25px;
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  left:50%;
+  top:0;
+  transform:translate(-50%,0%);
+  -ms-transform:translate(-50%,0%)}
+body {
+  padding-left: 25px;
+  padding-top: 200px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  font-size: 25px;
 }
